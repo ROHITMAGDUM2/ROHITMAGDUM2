@@ -10,7 +10,7 @@
 
  🔭 I’m currently working on *Something New*
 
-- 🌱 I’m currently learning *NextJS*
+- 🌱 I’m currently learning *Web Dev*
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/ROHITMAGDUM2) & [Github](https://github.com/ROHITMAGDUM2)
 
