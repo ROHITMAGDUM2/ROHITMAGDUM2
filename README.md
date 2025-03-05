@@ -3,6 +3,7 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" width="360px"/>
 
+
 - 🔭 I’m currently working on *Something New*
   
 - 👀 I’m interested in programming, codingz
