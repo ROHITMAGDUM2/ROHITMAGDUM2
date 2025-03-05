@@ -2,7 +2,7 @@
 <h3 align="left">I am a Versatilist and Full Stack Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠.</h3>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" width="360px"/>
-<br/><br/>
+<br/>
 
 - 🔭 I’m currently working on *Something New*
   
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [Resume](http://tiny.cc/resumeRohitMagdum)
 
-
+<br/>
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitmagdum2/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Rohit_Magdum_) 
