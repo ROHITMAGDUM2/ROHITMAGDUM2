@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@ROHITMAGDUM2](https://github.com/ROHITMAGDUM2)
-- 👀 I’m interested in programming,codingz
+- 👀 I’m interested in programming, codingz
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate with helpful, poor people 
 - 📫 How to reach me rohitmagdum2@gmail.com
@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" width="360px"/>
 
- 🔭 I’m currently working on *Something New*
+- 🔭 I’m currently working on *Something New*
 
 - 🌱 I’m currently learning *Web Dev*
 
@@ -19,7 +19,7 @@
 - 📄 Know about my experiences [Resume](http://tiny.cc/resumeRohitMagdum)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitmagdum2/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Rohit_Magdum_) 
 
