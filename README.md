@@ -12,16 +12,16 @@
 
 - 🌱 I’m currently learning *NextJS*
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/ritikmaurya4747) & [Github](https://github.com/ritikmaurya4747)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/ROHITMAGDUM2) & [Github](https://github.com/ROHITMAGDUM2)
 
-- 📫 How to reach me [Email](mailto:ritikmaurya4747@gmail.com) & [LinkedIn](https://www.linkedin.com/in/ritik-maurya-1a92aa299/)
+- 📫 How to reach me [Email](mailto:rohitmagdum2@gmail.com) & [LinkedIn](https://www.linkedin.com/in/rohitmagdum2/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19jEcP8bdtuwUQpmMp-0E_3SuRAaxI5Oy/view?usp=drive_link)
+- 📄 Know about my experiences [Resume]()
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shwet-rai-16238a232)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/shwet_rai7) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitmagdum2/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,9 +44,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ritikmaurya4747&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ritikmaurya4747&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikmaurya4747&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ROHITMAGDUM2&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ROHITMAGDUM2&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITMAGDUM2&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ritikmaurya4747&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ROHITMAGDUM2&icon=0&color=0)](https://visitcount.itsvg.in)
