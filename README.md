@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ROHITMAGDUM2
+- 👋 Hi, I’m [@ROHITMAGDUM2](https://github.com/ROHITMAGDUM2)
 - 👀 I’m interested in programming,codingz
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate with helpful, poor people 
@@ -21,7 +21,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitmagdum2/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Rohit_Magdum_) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
