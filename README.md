@@ -1,16 +1,13 @@
-- 👋 Hi, I’m [@ROHITMAGDUM2](https://github.com/ROHITMAGDUM2)
-- 👀 I’m interested in programming, codingz
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate with helpful, poor people 
-- 📫 How to reach me rohitmagdum2@gmail.com
-
+<h1 align="left">Hi 👋, I'm [ROHIT MAGDUM](https://github.com/ROHITMAGDUM2)</h1>
 <h3 align="left">I am a Versatilist and Full Stack Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠.</h3>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" width="360px"/>
 
 - 🔭 I’m currently working on *Something New*
-
-- 🌱 I’m currently learning *Web Dev*
+  
+- 👀 I’m interested in programming, codingz
+  
+- 🌱 I’m currently learning Web Development
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/ROHITMAGDUM2) & [Github](https://github.com/ROHITMAGDUM2)
 
