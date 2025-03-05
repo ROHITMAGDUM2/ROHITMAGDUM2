@@ -14,9 +14,9 @@
 
 - 📫 How to reach me [Email](mailto:rohitmagdum2@gmail.com) & [LinkedIn](https://www.linkedin.com/in/rohitmagdum2/)
 
-- 📄 Know about my experiences [Resume](http://tiny.cc/resumeRohitMagdum)
+- 📄 Know about my experiences [Resume](http://tiny.cc/resumeRohitMagdum) <br/>
 
-<br/>
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitmagdum2/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Rohit_Magdum_) 
